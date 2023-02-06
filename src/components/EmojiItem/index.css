@@ -1,0 +1,22 @@
+* {
+  font-family: 'Roboto';
+}
+.emogi-item {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.emogi-img {
+  width: 50px;
+  margin-bottom: 0;
+  cursor: pointer;
+}
+.thankyou {
+  color: #1e293b;
+  font-size: 16px;
+}
+.emogi-name {
+  color: #1e293b;
+  font-size: 12px;
+}
